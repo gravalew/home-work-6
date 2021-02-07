@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kobzar KS';
+    src: url('KobzarKS.woff2') format('woff2'),
+        url('KobzarKS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
